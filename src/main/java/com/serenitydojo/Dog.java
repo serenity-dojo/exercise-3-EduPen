@@ -13,15 +13,15 @@ public void Cat{
 }
   
   public String getName(){
-  this.name =name;
+  return name;
   }
   
   public String getFavoriteToy(){
-  this.favoriteToy =favoriteToy;
+  return favoriteToy;
   }
   
     public String getAge(){
-  this.age =age;
+   return age;
   }
 
 
