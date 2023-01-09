@@ -1,12 +1,12 @@
-package comserenitydojo;
+package com.serenitydojo;
 
-public class Cat{
+public class Dog{
 
 private String  name ;
 private String favoriteToy;
 private int age ;
 
-public Cat(String name, String favoriteToy, int age){
+public Dog(String name, String favoriteToy, int age){
   this.name = name;
   this.favoriteToy = favoriteToy;
   this.age = age;
