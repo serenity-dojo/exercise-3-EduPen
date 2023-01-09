@@ -20,7 +20,7 @@ public Dog(String name, String favoriteToy, int age){
         return favoriteToy;
   }
   
-    public String getAge(){
+    public int getAge(){
         return age;
   }
 
